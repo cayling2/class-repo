@@ -1,3 +1,4 @@
+
 # class-repo
 Testing Genomics class stuff
 # Header
@@ -9,3 +10,7 @@ Testing Genomics class stuff
 
 __bold__
 _italics_
+
+
+
+ADDED FROM PUTTY 
